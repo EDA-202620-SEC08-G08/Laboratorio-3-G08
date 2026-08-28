@@ -29,6 +29,8 @@ import App.logic as logic
 from DataStructures.List import array_list as lt
 
 
+
+
 """
 La vista se encarga de la interacción con el usuario
 Presenta el menu de opciones  y  por cada seleccion
